@@ -1,2 +1,2 @@
-# spring_crud
+# springcrud
 use spring boot sample
